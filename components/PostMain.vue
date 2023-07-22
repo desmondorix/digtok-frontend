@@ -14,9 +14,9 @@
                     </span>
                 </button>
 
-                <button class="border text-[15px] px-[21px] py-0.5 border-[#F02C56] text-[#F02C56] hover:bg-[#ffeef2] font-semibold rounded-md">
+                <!-- <button class="border text-[15px] px-[21px] py-0.5 border-[#F02C56] text-[#F02C56] hover:bg-[#ffeef2] font-semibold rounded-md">
                     Follow
-                </button>
+                </button> -->
             </div>
             <div class="text-[15px] pb-0.5 break-words md:max-w-[400px] max-w-[300px]">{{ post.text }}</div>
             <div class="text-[14px] text-gray-500 pb-0.5">#fun #cool #SuperAwesome</div>
